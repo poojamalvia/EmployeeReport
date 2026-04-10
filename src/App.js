@@ -1,11 +1,11 @@
 import React from "react";
-import Login from "./Login";
-import Registration from "./Registration";
+import Employeereport from "./Employeereport";
+
 
 function App() {
   return (
     
-   <Login/>
+   <Employeereport/>
   );
 }
 export default App;
